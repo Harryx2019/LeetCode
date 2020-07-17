@@ -1,0 +1,10 @@
+﻿  1.两数之和.cpp
+F:\University\Study\C++\Harry\LeetCode\1.h(12,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\University\Study\C++\Harry\LeetCode\1.h(16,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\University\Study\C++\Harry\LeetCode\1.两数之和.cpp(16,23): warning C4018: “<”: 有符号/无符号不匹配
+  2.两数相加.cpp
+  main.cpp
+F:\University\Study\C++\Harry\LeetCode\1.h(12,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\University\Study\C++\Harry\LeetCode\1.h(16,27): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  LeetCode.vcxproj -> F:\University\Study\C++\Harry\LeetCode\Debug\LeetCode.exe
