@@ -141,10 +141,12 @@
   <ItemGroup>
     <ClInclude Include="1.h" />
     <ClInclude Include="2.h" />
+    <ClInclude Include="35.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.两数之和.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
+    <ClCompile Include="35.搜索插入位置.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
