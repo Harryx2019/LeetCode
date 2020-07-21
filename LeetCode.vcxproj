@@ -140,17 +140,23 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="1.h" />
+    <ClInclude Include="167.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="35.h" />
     <ClInclude Include="4.h" />
+    <ClInclude Include="5.h" />
+    <ClInclude Include="95.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.两数之和.cpp" />
+    <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
     <ClCompile Include="3.无重复字符的最长子串.cpp" />
     <ClCompile Include="35.搜索插入位置.cpp" />
     <ClCompile Include="4.寻找两个正序数组的中位数.cpp" />
+    <ClCompile Include="5. 最长回文子串.cpp" />
+    <ClCompile Include="95.不同的二叉搜索树.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

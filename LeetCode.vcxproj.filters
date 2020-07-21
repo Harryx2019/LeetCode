@@ -30,6 +30,15 @@
     <ClInclude Include="4.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="167.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="95.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -48,6 +57,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="4.寻找两个正序数组的中位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5. 最长回文子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="95.不同的二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
