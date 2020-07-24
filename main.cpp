@@ -7,6 +7,7 @@ using namespace std;
 #include "4.h"
 #include "5.h"
 #include "35.h"
+#include "64.h"
 #include "95.h"
 #include "167.h"
 
@@ -17,7 +18,8 @@ int main() {
     //solution4();
     //solution5();
     //solution35();
+    solution64();
     //solution167();
-    solution95();
+    //solution95();
     return 0;
 }

@@ -146,6 +146,7 @@
     <ClInclude Include="35.h" />
     <ClInclude Include="4.h" />
     <ClInclude Include="5.h" />
+    <ClInclude Include="64.h" />
     <ClInclude Include="95.h" />
   </ItemGroup>
   <ItemGroup>
@@ -156,6 +157,7 @@
     <ClCompile Include="35.搜索插入位置.cpp" />
     <ClCompile Include="4.寻找两个正序数组的中位数.cpp" />
     <ClCompile Include="5. 最长回文子串.cpp" />
+    <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="95.不同的二叉搜索树.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
