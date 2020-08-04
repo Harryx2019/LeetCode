@@ -139,33 +139,51 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="08.03.h" />
     <ClInclude Include="1.h" />
+    <ClInclude Include="10.h" />
+    <ClInclude Include="104.h" />
+    <ClInclude Include="114.h" />
     <ClInclude Include="167.h" />
     <ClInclude Include="2.h" />
+    <ClInclude Include="207.h" />
     <ClInclude Include="3.h" />
+    <ClInclude Include="343.h" />
     <ClInclude Include="35.h" />
     <ClInclude Include="392.h" />
     <ClInclude Include="4.h" />
     <ClInclude Include="410.h" />
+    <ClInclude Include="415.h" />
     <ClInclude Include="5.h" />
     <ClInclude Include="6.h" />
     <ClInclude Include="64.h" />
     <ClInclude Include="7.h" />
+    <ClInclude Include="8.h" />
+    <ClInclude Include="9.h" />
     <ClInclude Include="95.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="08.03.魔术索引.cpp" />
     <ClCompile Include="1.两数之和.cpp" />
+    <ClCompile Include="10.正则表达式匹配.cpp" />
+    <ClCompile Include="104.二叉树的最大深度.cpp" />
+    <ClCompile Include="114.二叉树展开为链表.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
+    <ClCompile Include="207.课程表.cpp" />
     <ClCompile Include="3.无重复字符的最长子串.cpp" />
+    <ClCompile Include="343.整数拆分.cpp" />
     <ClCompile Include="35.搜索插入位置.cpp" />
     <ClCompile Include="392.判断子序列.cpp" />
     <ClCompile Include="4.寻找两个正序数组的中位数.cpp" />
     <ClCompile Include="410.分割数组的最大值.cpp" />
+    <ClCompile Include="415.字符串相加.cpp" />
     <ClCompile Include="5. 最长回文子串.cpp" />
     <ClCompile Include="6.Z字形变换.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="7.整数反转.cpp" />
+    <ClCompile Include="8.字符串转换整数.cpp" />
+    <ClCompile Include="9.回文数.cpp" />
     <ClCompile Include="95.不同的二叉搜索树.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
