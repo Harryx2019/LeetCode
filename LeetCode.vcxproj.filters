@@ -81,6 +81,18 @@
     <ClInclude Include="207.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="337.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="11.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="100.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="99.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -150,6 +162,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="207.课程表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="337.打家劫舍2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11.盛最多的水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100.相同的树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99.恢复二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

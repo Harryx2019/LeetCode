@@ -11,13 +11,17 @@ using namespace std;
 //#include "8.h"
 //#include "9.h"
 //#include "10.h"
+//#include "11.h"
 //#include "35.h"
 //#include "64.h"
 //#include "95.h"
+#include "99.h"
+//#include "100.h"
 //#include "104.h"
 //#include "114.h"
 //#include "167.h"
-#include "207.h"
+//#include "207.h"
+//#include "337.h"
 //#include "343.h"
 //#include "392.h"
 //#include "410.h"
@@ -35,13 +39,17 @@ int main() {
     //solution8();
     //solution9();
     //solution10();
+    //solution11();
     //solution35();
     //solution64();
     //solution95();
+    solution99();
+    //solution100();
     //solution104();
     //solution114();
     //solution167();
-    solution207();
+    //solution207();
+    //solution337();
     //solution343();
     //solution392();
     //solution410();
