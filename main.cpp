@@ -14,8 +14,9 @@ using namespace std;
 //#include "11.h"
 //#include "35.h"
 //#include "64.h"
+//#include "93.h"
 //#include "95.h"
-#include "99.h"
+//#include "99.h"
 //#include "100.h"
 //#include "104.h"
 //#include "114.h"
@@ -26,6 +27,7 @@ using namespace std;
 //#include "392.h"
 //#include "410.h"
 //#include "415.h"
+#include "696.h"
 //#include "08.03.h"
 
 int main() {
@@ -42,8 +44,9 @@ int main() {
     //solution11();
     //solution35();
     //solution64();
+    //solution93();
     //solution95();
-    solution99();
+    //solution99();
     //solution100();
     //solution104();
     //solution114();
@@ -54,6 +57,7 @@ int main() {
     //solution392();
     //solution410();
     //solution415();
+    solution696();
     //solution0803();
     return 0;
 }
