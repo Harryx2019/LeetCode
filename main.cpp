@@ -21,13 +21,15 @@ using namespace std;
 //#include "104.h"
 //#include "114.h"
 //#include "167.h"
+//#include "130.h"
+#include "133.h"
 //#include "207.h"
 //#include "337.h"
 //#include "343.h"
 //#include "392.h"
 //#include "410.h"
 //#include "415.h"
-#include "696.h"
+//#include "696.h"
 //#include "08.03.h"
 
 int main() {
@@ -50,6 +52,8 @@ int main() {
     //solution100();
     //solution104();
     //solution114();
+    //solution130();
+    solution133();
     //solution167();
     //solution207();
     //solution337();
@@ -57,7 +61,7 @@ int main() {
     //solution392();
     //solution410();
     //solution415();
-    solution696();
+    //solution696();
     //solution0803();
     return 0;
 }

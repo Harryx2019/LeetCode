@@ -146,6 +146,8 @@
     <ClInclude Include="104.h" />
     <ClInclude Include="11.h" />
     <ClInclude Include="114.h" />
+    <ClInclude Include="130.h" />
+    <ClInclude Include="133.h" />
     <ClInclude Include="167.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="207.h" />
@@ -176,6 +178,8 @@
     <ClCompile Include="104.二叉树的最大深度.cpp" />
     <ClCompile Include="11.盛最多的水.cpp" />
     <ClCompile Include="114.二叉树展开为链表.cpp" />
+    <ClCompile Include="130.被围绕的区域.cpp" />
+    <ClCompile Include="133.克隆图.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
     <ClCompile Include="207.课程表.cpp" />

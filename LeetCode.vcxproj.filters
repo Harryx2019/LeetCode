@@ -99,6 +99,12 @@
     <ClInclude Include="696.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="130.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="133.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -186,6 +192,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="696.计数二进制子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130.被围绕的区域.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133.克隆图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
