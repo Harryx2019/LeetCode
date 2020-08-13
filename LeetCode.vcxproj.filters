@@ -105,6 +105,9 @@
     <ClInclude Include="133.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="43.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -198,6 +201,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="133.克隆图.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="43.字符串相乘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

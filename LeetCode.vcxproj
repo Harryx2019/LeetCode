@@ -159,6 +159,7 @@
     <ClInclude Include="4.h" />
     <ClInclude Include="410.h" />
     <ClInclude Include="415.h" />
+    <ClInclude Include="43.h" />
     <ClInclude Include="5.h" />
     <ClInclude Include="6.h" />
     <ClInclude Include="64.h" />
@@ -191,6 +192,7 @@
     <ClCompile Include="4.寻找两个正序数组的中位数.cpp" />
     <ClCompile Include="410.分割数组的最大值.cpp" />
     <ClCompile Include="415.字符串相加.cpp" />
+    <ClCompile Include="43.字符串相乘.cpp" />
     <ClCompile Include="5. 最长回文子串.cpp" />
     <ClCompile Include="6.Z字形变换.cpp" />
     <ClCompile Include="64.最小路径和.cpp" />
