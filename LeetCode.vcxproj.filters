@@ -108,6 +108,15 @@
     <ClInclude Include="43.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="20.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="773.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="110.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -204,6 +213,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="43.字符串相乘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20.有效的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="733.图像渲染.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110.平衡二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

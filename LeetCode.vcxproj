@@ -145,11 +145,13 @@
     <ClInclude Include="100.h" />
     <ClInclude Include="104.h" />
     <ClInclude Include="11.h" />
+    <ClInclude Include="110.h" />
     <ClInclude Include="114.h" />
     <ClInclude Include="130.h" />
     <ClInclude Include="133.h" />
     <ClInclude Include="167.h" />
     <ClInclude Include="2.h" />
+    <ClInclude Include="20.h" />
     <ClInclude Include="207.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="337.h" />
@@ -165,6 +167,7 @@
     <ClInclude Include="64.h" />
     <ClInclude Include="696.h" />
     <ClInclude Include="7.h" />
+    <ClInclude Include="773.h" />
     <ClInclude Include="8.h" />
     <ClInclude Include="9.h" />
     <ClInclude Include="93.h" />
@@ -178,11 +181,13 @@
     <ClCompile Include="100.相同的树.cpp" />
     <ClCompile Include="104.二叉树的最大深度.cpp" />
     <ClCompile Include="11.盛最多的水.cpp" />
+    <ClCompile Include="110.平衡二叉树.cpp" />
     <ClCompile Include="114.二叉树展开为链表.cpp" />
     <ClCompile Include="130.被围绕的区域.cpp" />
     <ClCompile Include="133.克隆图.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
+    <ClCompile Include="20.有效的括号.cpp" />
     <ClCompile Include="207.课程表.cpp" />
     <ClCompile Include="3.无重复字符的最长子串.cpp" />
     <ClCompile Include="337.打家劫舍2.cpp" />
@@ -198,6 +203,7 @@
     <ClCompile Include="64.最小路径和.cpp" />
     <ClCompile Include="696.计数二进制子串.cpp" />
     <ClCompile Include="7.整数反转.cpp" />
+    <ClCompile Include="733.图像渲染.cpp" />
     <ClCompile Include="8.字符串转换整数.cpp" />
     <ClCompile Include="9.回文数.cpp" />
     <ClCompile Include="93.复原IP地址.cpp" />
