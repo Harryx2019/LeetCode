@@ -21,7 +21,8 @@ using namespace std;
 //#include "99.h"
 //#include "100.h"
 //#include "104.h"
-#include "110.h"
+#include "109.h"
+//#include "110.h"
 //#include "114.h"
 //#include "130.h"
 //#include "133.h"
@@ -58,7 +59,8 @@ int main() {
     //solution100();
     //solution104();
     //solution114();
-    solution110();
+    solution109();
+    //solution110();
     //solution130();
     //solution133();
     //solution167();

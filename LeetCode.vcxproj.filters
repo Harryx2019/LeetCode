@@ -117,6 +117,9 @@
     <ClInclude Include="110.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="109.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -222,6 +225,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="110.平衡二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109.有序链表转换二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

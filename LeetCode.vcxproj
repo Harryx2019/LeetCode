@@ -144,6 +144,7 @@
     <ClInclude Include="10.h" />
     <ClInclude Include="100.h" />
     <ClInclude Include="104.h" />
+    <ClInclude Include="109.h" />
     <ClInclude Include="11.h" />
     <ClInclude Include="110.h" />
     <ClInclude Include="114.h" />
@@ -180,6 +181,7 @@
     <ClCompile Include="10.正则表达式匹配.cpp" />
     <ClCompile Include="100.相同的树.cpp" />
     <ClCompile Include="104.二叉树的最大深度.cpp" />
+    <ClCompile Include="109.有序链表转换二叉搜索树.cpp" />
     <ClCompile Include="11.盛最多的水.cpp" />
     <ClCompile Include="110.平衡二叉树.cpp" />
     <ClCompile Include="114.二叉树展开为链表.cpp" />
