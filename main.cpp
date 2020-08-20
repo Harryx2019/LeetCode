@@ -33,8 +33,9 @@ using namespace std;
 //#include "392.h"
 //#include "410.h"
 //#include "415.h"
+#include "529.h"
 //#include "696.h"
-#include "647.h"
+//#include "647.h"
 //#include "773.h"
 //#include "08.03.h"
 
@@ -71,7 +72,8 @@ int main() {
     //solution392();
     //solution410();
     //solution415();
-    solution647();
+    solution529();
+    //solution647();
     //solution696();
     //solution773();
     //solution0803();
