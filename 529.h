@@ -70,7 +70,6 @@ public:
                 board[p[0]][p[1]] = mine + '0';
             }
         }
-
         return board;
     }
 };
