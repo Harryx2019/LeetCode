@@ -23,6 +23,7 @@ using namespace std;
 //#include "104.h"
 //#include "109.h"
 //#include "110.h"
+//#include "111.h"
 //#include "114.h"
 //#include "130.h"
 //#include "133.h"
@@ -33,11 +34,13 @@ using namespace std;
 //#include "392.h"
 //#include "410.h"
 //#include "415.h"
-#include "529.h"
+//#include "529.h"
 //#include "696.h"
 //#include "647.h"
 //#include "773.h"
 //#include "08.03.h"
+//#include "5479.h"
+#include "5480.h"
 
 int main() {
     //solution1();
@@ -63,6 +66,7 @@ int main() {
     //solution114();
     //solution109();
     //solution110();
+    //solution111();
     //solution130();
     //solution133();
     //solution167();
@@ -72,10 +76,12 @@ int main() {
     //solution392();
     //solution410();
     //solution415();
-    solution529();
+    //solution529();
     //solution647();
     //solution696();
     //solution773();
     //solution0803();
+    //solution5479();
+    solution5480();
     return 0;
 }
