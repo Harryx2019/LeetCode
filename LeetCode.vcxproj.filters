@@ -135,6 +135,15 @@
     <ClInclude Include="5480.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="201.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="459.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="17.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -258,6 +267,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="5480.可以到达所有点的最少点数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201.数字范围按位与.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="459.重复的子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17.电话号码的字母组合.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

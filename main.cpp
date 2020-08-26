@@ -12,6 +12,7 @@ using namespace std;
 //#include "9.h"
 //#include "10.h"
 //#include "11.h"
+#include "17.h"
 //#include "20.h"
 //#include "35.h"
 //#include "43.h"
@@ -28,19 +29,21 @@ using namespace std;
 //#include "130.h"
 //#include "133.h"
 //#include "167.h"
+//#include "201.h"
 //#include "207.h"
 //#include "337.h"
 //#include "343.h"
 //#include "392.h"
 //#include "410.h"
 //#include "415.h"
+//#include "459.h"
 //#include "529.h"
 //#include "696.h"
 //#include "647.h"
 //#include "773.h"
 //#include "08.03.h"
 //#include "5479.h"
-#include "5480.h"
+//#include "5480.h"
 
 int main() {
     //solution1();
@@ -54,6 +57,7 @@ int main() {
     //solution9();
     //solution10();
     //solution11();
+    solution17();
     //solution20();
     //solution35();
     //solution43();
@@ -70,18 +74,20 @@ int main() {
     //solution130();
     //solution133();
     //solution167();
+    //solution201();
     //solution207();
     //solution337();
     //solution343();
     //solution392();
     //solution410();
     //solution415();
+    //solution459();
     //solution529();
     //solution647();
     //solution696();
     //solution773();
     //solution0803();
     //solution5479();
-    solution5480();
+    //solution5480();
     return 0;
 }

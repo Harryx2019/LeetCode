@@ -152,8 +152,10 @@
     <ClInclude Include="130.h" />
     <ClInclude Include="133.h" />
     <ClInclude Include="167.h" />
+    <ClInclude Include="17.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="20.h" />
+    <ClInclude Include="201.h" />
     <ClInclude Include="207.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="337.h" />
@@ -164,6 +166,7 @@
     <ClInclude Include="410.h" />
     <ClInclude Include="415.h" />
     <ClInclude Include="43.h" />
+    <ClInclude Include="459.h" />
     <ClInclude Include="5.h" />
     <ClInclude Include="529.h" />
     <ClInclude Include="5479.h" />
@@ -194,8 +197,10 @@
     <ClCompile Include="130.被围绕的区域.cpp" />
     <ClCompile Include="133.克隆图.cpp" />
     <ClCompile Include="167. 两数之和 II - 输入有序数组.cpp" />
+    <ClCompile Include="17.电话号码的字母组合.cpp" />
     <ClCompile Include="2.两数相加.cpp" />
     <ClCompile Include="20.有效的括号.cpp" />
+    <ClCompile Include="201.数字范围按位与.cpp" />
     <ClCompile Include="207.课程表.cpp" />
     <ClCompile Include="3.无重复字符的最长子串.cpp" />
     <ClCompile Include="337.打家劫舍2.cpp" />
@@ -206,6 +211,7 @@
     <ClCompile Include="410.分割数组的最大值.cpp" />
     <ClCompile Include="415.字符串相加.cpp" />
     <ClCompile Include="43.字符串相乘.cpp" />
+    <ClCompile Include="459.重复的子字符串.cpp" />
     <ClCompile Include="5. 最长回文子串.cpp" />
     <ClCompile Include="529.扫雷游戏.cpp" />
     <ClCompile Include="5479.千位分隔数.cpp" />
